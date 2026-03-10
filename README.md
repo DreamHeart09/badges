@@ -1,2 +1,2 @@
 # badges
-badges test
+[![GitHub stars](https://img.shields.io/github/stars/DreamHeart09/badges?style=social)](https://github.com/DreamHeart09/badges/stargazers) [![GitHub forks](https://img.shields.io/github/forks/DreamHeart09/badges?style=social)](https://github.com/DreamHeart09/badges/network/members) [![GitHub release](https://img.shields.io/github/v/release/DreamHeart09/badges?include_prereleases)](https://github.com/DreamHeart09/badges/releases)
